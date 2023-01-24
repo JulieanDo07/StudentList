@@ -3,7 +3,7 @@ package student1;
 
 /*
 *
-*This class ++ Insert class description here +++
+*updated on January 24, 2023
 *
 * @author Juliean Do 
 */
